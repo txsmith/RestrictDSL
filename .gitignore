@@ -1,0 +1,5 @@
+.idea
+target
+*.crt
+*.key
+log.txt
